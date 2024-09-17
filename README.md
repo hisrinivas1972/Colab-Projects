@@ -1,0 +1,1 @@
+price monitoring script using Python and Beautiful Soup to track product prices on e-commerce websites. This information can help you make informed decisions about pricing strategies and identify potential opportunities in the market.
